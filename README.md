@@ -4,9 +4,9 @@
 
 -Features
 
--Interactive chatbot interface
--Pre-trained GPT-2 model for generating responses
--Maintains chat history
+- Interactive chatbot interface
+- Pre-trained GPT-2 model for generating responses
+- Maintains chat history
 
 -Requirements
 Make sure you have Python installed, then install the necessary dependencies:
