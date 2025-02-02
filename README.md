@@ -1,14 +1,14 @@
 # AI-POWERED-HEALTHCARE-CHATBOT
 
--A simple AI-powered healthcare chatbot using OpenAI's GPT-2 model, built with Streamlit.
+A simple AI-powered healthcare chatbot using OpenAI's GPT-2 model, built with Streamlit.
 
--Features
+Features
 
 - Interactive chatbot interface
 - Pre-trained GPT-2 model for generating responses
 - Maintains chat history
 
--Requirements
+Requirements
 - Make sure you have Python installed, then install the necessary dependencies:
 - pip install streamlit transformers torch
 
