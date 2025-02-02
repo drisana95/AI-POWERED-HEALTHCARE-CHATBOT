@@ -10,7 +10,7 @@ Features
 
 Requirements
 - Make sure you have Python installed, then install the necessary dependencies:
-- Run the following command to install the dependencies: `pip install streamlit transformers torch`
+ `pip install streamlit transformers torch`
 
 
 ![image](https://github.com/user-attachments/assets/b330b239-1258-4e48-bd88-7ea38a703e14)
